@@ -1,9 +1,9 @@
 class Dagpi < Formula
   desc "A cli for Managing https://dagpi.xyz"
   homepage "https://github.com/daggy1234/dagpi-cli"
-  url "https://github.com/daggy1234/dagpi-cli/archive/v0.2.02.tar.gz"
-  sha256 "e4aea37ce06efaf2dc410086d286b3750fe03ef837477701d4490fa09b7a9b24"
-  version "0.2.0"
+  url "https://github.com/daggy1234/dagpi-cli/archive/v0.3.0.tar.gz"
+  sha256 "855808a6c97941c89b467870393fbba7372beed7445e983431290ab3f6250b16"
+  version "0.3.0"
   license "MIT"
 
   depends_on "rust" => :build
